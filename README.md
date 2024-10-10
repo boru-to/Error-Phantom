@@ -3,7 +3,7 @@
 
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS+FOR+CHOOSING+ERROR-PHANTOM;MULTI+BUG+BOT;ARISED+BY+PHANTOM" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines= THANKS+FOR+CHOOSING;ERROR-PHANTOM;MULTI+BUG+BOT;ARISED+BY+PHANTOM" alt="Typing SVG" /></a>
   </p>
     <img alt="Error-Phantom" width="600" height="400" src="https://files.catbox.moe/q8uugo.jpg">
 <p align="center">
@@ -21,8 +21,7 @@
 
 # CLICK THE BUTTON TO FORK
 
-
-<a href="https://github.com/boru-to/Error-Phantom/fork"><img title="Error-Phantom" src="https://img.shields.io/badge/FORK-Error-Phantom-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+***[`FORK`](https://github.com/boru-to/Error-Phantom/fork
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
