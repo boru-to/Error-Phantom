@@ -21,10 +21,11 @@
 
 # CLICK THE BUTTON TO FORK
 
-***[`FORK`](https://github.com/boru-to/Error-Phantom/fork
+<a href="https://github.com/boru-to/Error-Phantom/fork"><img title="Error-Phantom" src="https://img.shields.io/badge/FORK-Error-Phantom-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-
 
 
 ### BOT HOSTING PANEL LINK
