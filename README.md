@@ -22,8 +22,6 @@
 # CLICK THE BUTTON TO FORK
 
 ***[`FORK`](https://github.com/boru-to/Error-Phantom/fork
-
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
